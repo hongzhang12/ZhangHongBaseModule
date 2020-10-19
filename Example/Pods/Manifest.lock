@@ -1,0 +1,16 @@
+PODS:
+  - ZhangHongBaseModule (0.1.0)
+
+DEPENDENCIES:
+  - ZhangHongBaseModule (from `../`)
+
+EXTERNAL SOURCES:
+  ZhangHongBaseModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZhangHongBaseModule: 7afb204c0357d0203359a6697ea08ee5aa9525d1
+
+PODFILE CHECKSUM: a269262e6c1b8a5a1c4cc9b3be18268f583e8ef7
+
+COCOAPODS: 1.9.3
